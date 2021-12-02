@@ -24,3 +24,15 @@
   align-items: center;
   justify-content: space-around;
 }
+.about-text h1{
+  color: rgb(120, 241, 7);
+  font-size: 80px;
+  text-transform: capitalize;
+  margin-bottom: 20px;
+}
+.about-text h5{
+  color: rgb(14, 113, 170);
+  font-size: 25px;
+  text-transform: capitalize;
+  margin-bottom: 25px;
+}
