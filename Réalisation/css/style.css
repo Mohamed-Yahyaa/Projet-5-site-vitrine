@@ -7,7 +7,7 @@
  }
 
 header{
-    background: url('tennis.jpg');
+    background: url('../image/tennis.jpg');
     background-repeat: no-repeat;
     width: 100%;
     background-size: cover;
