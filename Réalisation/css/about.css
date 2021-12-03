@@ -85,3 +85,8 @@ button{
 
 
 }
+.ball{
+
+  display:flex ;
+  flex-wrap: wrap;
+}
