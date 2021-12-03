@@ -5,9 +5,14 @@ header{
   background-size: cover;
   height: 400px;
 }
+.list-a{
+
+  margin-right: 80px;
+}
 .navlist {
 
   padding-top: 30px;
+  justify-content: right;
 }
 .navlist ul li { 
   display: inline;
